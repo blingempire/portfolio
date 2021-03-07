@@ -1,0 +1,42 @@
+.border {
+  border-width: 3px !important;
+}
+
+
+.row-above-plants {
+  background-color: #00d1b2;
+}
+
+.row-plants {
+  background-color: #aae8d8;
+}
+
+.no-padding {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+body {
+  font-family: 'Comic Neue', cursive;
+}
+
+.fa-leaf {
+  color: #00d1b2;
+}
+
+.aloe {
+  background-color: #00d1b2;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+.nav-link {
+  display: flex;
+}
+
+.sign-in {
+  margin-left: 15px;
+}
